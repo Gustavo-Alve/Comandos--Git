@@ -8,3 +8,4 @@ git remote add origin (junto com o link do repositório)
 git push -u origin main 
 
 comando para resetar terminal do git bash : (rm -rf .git)
+Se criar um repositorio com um readme, no terminal deve colcoar (git pull origin main --rebase) para atualizar o codigo primeiro antes de enviar
