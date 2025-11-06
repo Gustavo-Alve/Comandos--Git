@@ -6,3 +6,5 @@ git commit -m "primeiro commit"
 git branch -M main 
 git remote add origin (junto com o link do repositório) 
 git push -u origin main 
+
+comando para resetar terminal do git bash : (rm -rf .git)
