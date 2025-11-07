@@ -9,3 +9,11 @@ git push -u origin main
 
 comando para resetar terminal do git bash : (rm -rf .git)
 Se criar um repositorio com um readme, no terminal deve colcoar (git pull origin main --rebase) para atualizar o codigo primeiro antes de enviar
+
+Para commitar as novas mudanças coloque no terminal 
+
+git pull origin main --rebase
+git status (para verificar as mudanças feitas)
+git add . (para adicionar as mudanças feitas)
+git commit -m (commit feito)
+git push origin main ou master
